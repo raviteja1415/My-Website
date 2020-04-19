@@ -1,0 +1,138 @@
+.top-container {
+  background-color: #a0ffe6;
+  position: relative;
+  padding-top: 100px;
+}
+/*
+.pro {
+  text-decoration: underline;
+} */
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  color: #40514E;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  /* line-height: 2; */
+  color: #66BFBF;
+}
+
+h2 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  /* font-weight: normal; */
+}
+
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  color: #11999E;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom : 300px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Rubik', sans-serif;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.dancing-img {
+  width: 25%;
+  float: right; /*things image to float right */
+  padding-left: 30px;
+}
+
+/* .coding-skills-description {
+  clear: left;
+}
+
+.dancing-skills-description {
+  clear: right;
+} */
+
+.myimage {
+  padding-top: 50px;
+}
+
+.parg-div {
+  width: 40%;
+  margin: auto;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #aacfcf;
+  width: 5%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding : 20px 0;
+}
+
+.message {
+  margin: 30px 0px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  /* cursor: pointer; */
+}
